@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "239986324330",
+    "firebase_url": "https://wiki-react-7e0b7.firebaseio.com",
+    "project_id": "wiki-react-7e0b7",
+    "storage_bucket": "wiki-react-7e0b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239986324330:android:3823d63832b5a896dc6b13",
+        "android_client_info": {
+          "package_name": "com.reactnativeconectfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239986324330-64dfc604mu01tqjq3n6lq1qpd1ki4te8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhaqiSB8fUyWDx2RCYGdfHntdFjH91a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239986324330-64dfc604mu01tqjq3n6lq1qpd1ki4te8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239986324330-41r977v4l6om8t693sto8glv1nso7bdb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wikireactnative.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
